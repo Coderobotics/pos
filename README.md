@@ -1,38 +1,33 @@
 # Automan POS
-Open source based Point Of Sales
+Automan POS is an PHP based Retail Management POS for Independent Retailers. Automan POS is a web based powerful and light weight Point of Sale PHP software. PHP based Point of Sale is customizable. Easily configure features to match your business needs. Track inventory, receiving, and suppliers with a detailed, up-to-date information. PHP based Point of Sale offers a wide array of powerful reporting features that allow you to track your sales and customer information in real time. Track inventory, receiving, and suppliers with a detailed, up-to-date information. Automan POS includes a Cash Register, Point of Sale module. This module lets you ring up Sales and Returns. You can also discount items on a line-by-line basis. Your customers can pay with multiple payment types: Cash, Check, Gift Card, Debit Card, and Credit Card. You can optionally assign a customer and add comments to the Sale. Finally, you can suspend the Sale or complete it. When you complete the Sale, a Sales Receipt is generated.
 
-Hi,
+<img src="https://www.phpscriptsonline.com/frontend/assets/templates/1736981105_49d595dfff3627835525.webp">
 
-Greetings from Coderobotics Studio.
-We have a powerfull open source based Point Of Sale (POS) software with full source code.
+<b>Automan POS has the following key features:</b>
 
-Automan POS is an Open Source based Retail Management Solution for Independent Retailers. 
-Automan ERP & POS are having data synchronization to import/ export customers and products details.
+<ul>
+<li>Point of Sale</li>
+<li>Inventory Control</li>
+<li>Customer Management</li>
+<li>Employee Management</li>
+<li>Reports</li>
+<li>Store Configuration</li>
+<li>Suppliers</li>
+<li>Gift Cards</li>
+<li>Data synchronization between Automan ERP & POS</li>
+<li>Payment</li>
+<li>Multiple Themes</li>
+<li>Support Multilingual</li>
+</ul>
 
-Automan POS includes several modules:
+More details and download project
+https://www.phpscriptsonline.com/product/automan-point-of-sale
 
-Point of Sale
-Inventory Control
-Customer Management
-Employee Management
-Reports
-Store Configuration
-Suppliers
-Gift Cards
-Data synchronization between Automan ERP & POS
-Payment
-Multiple Themes
-Support Multilingual
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
 
-Please download complete snapshots here:
-https://www.dropbox.com/s/7o5k7xj2v7a1zfr/Automan-POS.pdf?dl=0
-http://coderobotics.com/?page_id=11129
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
 
-Please have live video demo:
-https://youtu.be/uxlhy3WAk0E
-https://youtu.be/PvW7gpnycCg
-
-If interested in trying our live demo, please contact us sasi@coderobotics.com
-
-Thanks,
-Coderobotics
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
